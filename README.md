@@ -1,5 +1,5 @@
-# Tawakkalna Fake Clone
-### Tawakkalna App Page
+# Quiz Game - Vanillia Js
+### Main Application Page
 
 ![N|Solid](https://i.ibb.co/WnmLR9G/Quiz-Game-Gif.gif)
 
